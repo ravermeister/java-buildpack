@@ -27,7 +27,7 @@ jvmkill_agent:
   version: 1.+
   repository_root: "{default.repository.root}/jvmkill/{platform}/{architecture}"
 memory_calculator:
-  version: 4.+
+  version: 3.+
   repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
   class_count:
   headroom:
